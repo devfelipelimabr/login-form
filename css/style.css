@@ -39,6 +39,7 @@ form {
     display: flex;
     flex-direction: column;
     width: 20rem;
+    font-size: 1.25rem;
 }
 
 .login {
